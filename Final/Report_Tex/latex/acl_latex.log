@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.15)  15 JUL 2025 18:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.15)  15 JUL 2025 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,7 +439,7 @@ LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 73.
 
-Overfull \hbox (1.44104pt too wide) in paragraph at lines 86--95
+Overfull \hbox (1.44104pt too wide) in paragraph at lines 85--94
  [][] 
  []
 
@@ -457,30 +457,30 @@ Underfull \vbox (badness 1221) has occurred while \output is active []
 <figs/4_2.png, id=76, 1177.39874pt x 471.7625pt>
 File: figs/4_2.png Graphic file (type png)
 <use figs/4_2.png>
-Package pdftex.def Info: figs/4_2.png  used on input line 120.
+Package pdftex.def Info: figs/4_2.png  used on input line 119.
 (pdftex.def)             Requested size: 136.57462pt x 54.72304pt.
 <figs/10_2.png, id=77, 1169.36874pt x 471.7625pt>
 File: figs/10_2.png Graphic file (type png)
 <use figs/10_2.png>
-Package pdftex.def Info: figs/10_2.png  used on input line 126.
+Package pdftex.def Info: figs/10_2.png  used on input line 125.
 (pdftex.def)             Requested size: 136.57462pt x 55.09737pt.
 <figs/4_3.png, id=78, 1169.36874pt x 471.7625pt>
 File: figs/4_3.png Graphic file (type png)
 <use figs/4_3.png>
-Package pdftex.def Info: figs/4_3.png  used on input line 137.
+Package pdftex.def Info: figs/4_3.png  used on input line 136.
 (pdftex.def)             Requested size: 136.57462pt x 55.09737pt.
 <figs/5_3.png, id=79, 1177.39874pt x 471.7625pt>
 File: figs/5_3.png Graphic file (type png)
 <use figs/5_3.png>
-Package pdftex.def Info: figs/5_3.png  used on input line 143.
+Package pdftex.def Info: figs/5_3.png  used on input line 142.
 (pdftex.def)             Requested size: 136.57462pt x 54.72304pt.
 <figs/10_3.png, id=80, 1169.36874pt x 471.7625pt>
 File: figs/10_3.png Graphic file (type png)
 <use figs/10_3.png>
-Package pdftex.def Info: figs/10_3.png  used on input line 149.
+Package pdftex.def Info: figs/10_3.png  used on input line 148.
 (pdftex.def)             Requested size: 136.57462pt x 55.09737pt.
 
-Overfull \hbox (30.90604pt too wide) in paragraph at lines 167--182
+Overfull \hbox (30.90604pt too wide) in paragraph at lines 165--180
  [][] 
  []
 

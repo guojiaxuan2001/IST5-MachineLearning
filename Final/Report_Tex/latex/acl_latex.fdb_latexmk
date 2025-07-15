@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1752573458.59331 "/Users/guojiaxuan2001/Desktop/MyCSProj/IST5-MachineLearning/Final/Report_Tex/latex/acl_latex.tex" "acl_latex.pdf" "acl_latex" 1752573459.35561 0
-  "/Users/guojiaxuan2001/Desktop/MyCSProj/IST5-MachineLearning/Final/Report_Tex/latex/acl_latex.tex" 1752573457.6246 11383 6732ba3c6142c5c19373d436243c51aa ""
+["pdflatex"] 1752574959.76446 "/Users/guojiaxuan2001/Desktop/MyCSProj/IST5-MachineLearning/Final/Report_Tex/latex/acl_latex.tex" "acl_latex.pdf" "acl_latex" 1752574960.5285 0
+  "/Users/guojiaxuan2001/Desktop/MyCSProj/IST5-MachineLearning/Final/Report_Tex/latex/acl_latex.tex" 1752574959.59554 11142 8d025844e6edf63f182f669472ad9f7a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1558214095 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -106,9 +106,9 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1752569806 3345741 cc64ce970637218af42cae9a638218bd ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "acl.sty" 1752536564 11597 da9a94cfb2d73b4ccce758d297ef675a ""
-  "acl_latex.aux" 1752573459.32029 4783 11ed9a6b7236be12dc79c23afcd1dc90 "pdflatex"
-  "acl_latex.out" 1752573459.32109 2253 9b718cea9267b22974ff9257c539a978 "pdflatex"
-  "acl_latex.tex" 1752573457.6246 11383 6732ba3c6142c5c19373d436243c51aa ""
+  "acl_latex.aux" 1752574960.4766 4783 11ed9a6b7236be12dc79c23afcd1dc90 "pdflatex"
+  "acl_latex.out" 1752574960.47739 2253 9b718cea9267b22974ff9257c539a978 "pdflatex"
+  "acl_latex.tex" 1752574959.59554 11142 8d025844e6edf63f182f669472ad9f7a ""
   "figs/10_2.png" 1752571531.10828 50515 4f07fe5ac3152ba76ffa3185402fad87 ""
   "figs/10_3.png" 1752571497.45549 55215 4c514f41118e2b875057d462d22665e4 ""
   "figs/4_2.png" 1752571515.49811 61087 67c26c9c7a8e6a0b52485fa3156ef0bb ""

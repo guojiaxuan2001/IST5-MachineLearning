@@ -82,7 +82,6 @@ We then compared the performance of our optimized Bi-LSTM against the TF-IDF+SVM
 
 \begin{table}[h!]
 \centering
-% As per our discussion, I have removed the F1-Score column to focus the report.
 \begin{tabular}{lcc}
 \toprule
 \textbf{Model} & \textbf{Accuracy} & \textbf{Training Time} \\
@@ -150,8 +149,6 @@ Figures~\ref{fig:lstm-64-64-curves} and~\ref{fig:lstm-64-128-64-curves} display 
     \caption{64-128-64 Arch, 10 Epochs}
     \label{fig:lstm-64-128-64-10e}
   \end{subfigure}
-  % Note: I'm omitting the 20-epoch figure as it shows extreme overfitting 
-  % and these three are sufficient to demonstrate the trend. Add it back if you wish.
   \caption{Learning curves for the deeper Bi-LSTM (64-128-64) architecture.}
   \label{fig:lstm-64-128-64-curves}
 \end{figure}
